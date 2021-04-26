@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.expo",
+    "\\app",
+    "\\app\\actions",
+    "\\app\\components",
+    "\\app\\constants",
+    "\\app\\navigation",
+    "\\app\\reducers",
+    "\\app\\utilities",
+    "\\__tests__"
+  ],
+  "PreviewInSolutionExplorer": false
+}

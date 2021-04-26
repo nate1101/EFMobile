@@ -1,0 +1,53 @@
+{
+    "expo": {
+        "name": "EventBx",
+        "scheme": "eb.eventbx",
+        "description": "Intuitive and simple event management.",
+        "slug": "eventbx",
+        "privacy": "unlisted",
+        "sdkVersion": "31.0.0",
+        "platforms": ["ios", "android"],
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/images/icon1024x1024.png",
+        "notification": {
+            "icon": "./assets/images/icon96x96.png",
+            "color": "#FFFFFF"
+        },
+        "splash": {
+            "image": "./assets/images/splash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#ffffff"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": ["assets/images/*", "**/*"],
+        "ios": {
+            "supportsTablet": true,
+            "bundleIdentifier": "eb.eventbx",
+            "buildNumber": "3",
+            "icon": "./assets/images/icon1024x1024.png"
+        },
+        "android": {
+            "package": "eb.eventbx",
+            "versionCode": 3,
+            "permissions": [
+                "READ_EXTERNAL_STORAGE",
+                "WRITE_EXTERNAL_STORAGE",
+                "com.google.android.c2dm.permission.RECEIVE"
+            ],
+            "googleServicesFile": "./assets/google-services.json",
+
+            "splash": {
+                "backgroundColor": "#FFFFFF",
+                "resizeMode": "cover",
+                "mdpi": "./assets/images/splash_hdpi.png",
+                "hdpi": "./assets/images/splash_hdpi.png",
+                "xhdpi": "./assets/images/splash_xhdpi.png",
+                "xxhdpi": "./assets/images/splash_xxhdpi.png",
+                "xxxhdpi": "./assets/images/splash_xxxhdpi.png"
+            }
+        }
+    }
+}

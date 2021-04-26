@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "411679804032",
+    "firebase_url": "https://eventbx-98add.firebaseio.com",
+    "project_id": "eventbx-98add",
+    "storage_bucket": "eventbx-98add.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411679804032:android:11d8ec1a53e0798f",
+        "android_client_info": {
+          "package_name": "eb.eventbx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411679804032-0pil18ene4c26jedo66biggk32hsp0t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_pqRMSC-XNqK1G2jRszoWpsl3geYh_2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411679804032-0pil18ene4c26jedo66biggk32hsp0t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
